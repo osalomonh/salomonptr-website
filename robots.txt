@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salomonptr.com/sitemap.xml
